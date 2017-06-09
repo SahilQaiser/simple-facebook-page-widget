@@ -49,7 +49,7 @@
     },
     {
       "component": "header",
-      "heading": "simple-facebook-page-widget",
+      "heading": "Simple Facebook",
       "subhead": "Shows the Facebook Page feed in a sidebar widget and/or via shortcode.",
       "children": [
         {
@@ -62,7 +62,15 @@
           "user": "irkanu",
           "repo": "simple-facebook-page-widget"
         }
-      ]
+      ],
+      "text": "",
+      "links": [
+        {
+          "href": "https://wordpress.org/plugins/simple-facebook-twitter-widget/",
+          "text": "Download at WordPress.org"
+        }
+      ],
+      "slug": ""
     },
     {
       "component": "article",
